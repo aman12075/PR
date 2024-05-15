@@ -2,8 +2,8 @@
 
 ## Description
 
-**The Universal Search Bar is a versatile desktop application built with Python and Tkinter. It allows users to perform searches on various platforms such as Google, DuckDuckGo, Amazon, and YouTube. The application also features a voice search capability using the SpeechRecognition library, enhancing the user experience.
-**
+***The Universal Search Bar is a versatile desktop application built with Python and Tkinter. It allows users to perform searches on various platforms such as Google, DuckDuckGo, Amazon, and YouTube. The application also features a voice search capability using the SpeechRecognition library, enhancing the user experience.***
+
 
 ## Features
 
